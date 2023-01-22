@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class C03_DependsOn {
+public class C04_DependsOn {
     //● Bir class oluşturun: DependsOnTest
     //● https://www.amazon.com/ adresine gidin.
     //	1. Test : Amazon ana sayfaya gittiginizi test edin
